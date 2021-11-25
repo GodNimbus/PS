@@ -7,7 +7,7 @@ import android.graphics.drawable.shapes.OvalShape;
 import android.util.AttributeSet;
 import android.view.View;
 
-public class EjemploVista extends View {
+public class EjemploVista{
     private ShapeDrawable miImagen;
     public EjemploVista(Context context, AttributeSet attrs) {
         super(context, attrs);
